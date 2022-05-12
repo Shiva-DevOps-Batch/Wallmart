@@ -1,0 +1,6 @@
+#Ignore files are called .project and .classpath
+.project
+.classpath
+#Ignore folder is called node_modules
+/node_modules
+
